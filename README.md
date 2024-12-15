@@ -1,4 +1,4 @@
 # Rishu
 This is my first repository on  Github
 <br>
-Author- Rishu Kumar
+Author- Rishu Kumar(sahwajpur)
